@@ -39,7 +39,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "http://ergovschi.github.io/pathfinding-demo",
+  "homepage": "https://ergovschi.github.io/pathfinding-demo",
   "eslintConfig": {
     "extends": [
       "react-app",
